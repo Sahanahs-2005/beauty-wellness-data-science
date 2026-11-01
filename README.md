@@ -33,4 +33,4 @@ python build_doc.py
 ```
 
 ## Note
-The chart uses synthetic data for illustration only. Real findings will follow once a public dataset is sourced in Week 2.
+The chart uses synthetic data for illustration only.
