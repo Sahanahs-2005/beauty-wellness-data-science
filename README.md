@@ -8,7 +8,9 @@ Problem definition for personalised skincare recommendation.
 
 ## How to run
 pip install -r requirements.txt
+
 python eda_demo.py
+
 python build_doc.py
 
 Note: the chart uses synthetic data for illustration only.
