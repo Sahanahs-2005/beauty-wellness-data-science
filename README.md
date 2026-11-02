@@ -34,3 +34,8 @@ python build_doc.py
 
 ## Note
 The chart uses synthetic data for illustration only.
+
+
+## Week 2: Data Sourcing & EDA Pipeline
+- `week2_eda_pipeline.py`: Loads review data, computes descriptive statistics, conducts ANOVA & Pearson correlation testing, and builds a TF-IDF cosine similarity baseline for skincare recommendation.
+
