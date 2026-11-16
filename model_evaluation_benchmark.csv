@@ -1,0 +1,6 @@
+Model Architecture,Precision@5,Recall@5,MAP@5,NDCG@5,ROC-AUC,RMSE
+Popularity Baseline,0.124,0.185,0.142,0.21,0.582,1.245
+Content-Based (TF-IDF),0.286,0.41,0.315,0.468,0.884,1.052
+Collaborative Filtering (SVD),0.342,0.495,0.408,0.562,0.926,0.914
+Random Forest Classifier,0.38,0.54,0.45,0.61,0.964,0.865
+Hybrid Recommender Engine,0.412,0.584,0.492,0.648,0.978,0.842
